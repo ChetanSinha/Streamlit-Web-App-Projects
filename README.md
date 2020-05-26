@@ -3,5 +3,5 @@ This repository contains various Machine Learning Web App projects using Streaml
 
 
 This is how the Binary Classification of edible or poisonous mushrooms gets displayed using streamlit.
-![Alt text]("https://github.com/ChetanSinha/Streamlit-Web-App-Projects/tree/master/images/mushroom_display.PNG")
-<img src="https://github.com/ChetanSinha/Streamlit-Web-App-Projects/tree/master/images/mushroom_display.PNG" />
+
+![Screenshot](/images/mushroom_display.PNG)
